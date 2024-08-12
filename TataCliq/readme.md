@@ -24,7 +24,7 @@ Also since average delay in dispatching & delivery both is 1 - 5 days, thus they
 - Step 5 : Visual filters (Slicers) were added for five fields named "Year", "Month", "Category", "Location" & "Ratings".
 This is the homepage with no selections
 
-![Screenshot 2024-08-12 125924](https://github.com/user-attachments/assets/12e71131-b5e7-453c-97b2-8edfaab2155d)
+![Screenshot 2024-08-12 125924](https://github.com/user-attachments/assets/d23c53d1-949a-452e-badc-21cfd45f443f)
 
 - Step 6 : Five card visuals were added to the canvas, Representing Total Revenue , Total Profit , Total Order,Average Ratings & Total Products as shown in the above picture.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
